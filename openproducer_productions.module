@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OpenProducer Productions feature.
+ */
+
+include_once 'openproducer_productions.features.inc';
